@@ -30,4 +30,4 @@ const textToSpeech = () => {
     })
 }
 
-button.addEventListener("click", textToSpeech);
+button.addEventListener("click", textToSpeech); 
